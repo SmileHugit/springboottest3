@@ -1,0 +1,22 @@
+person:
+  boos: true
+  age: 25
+  strings:
+    - 王五
+    -  老刘
+    - zhaosi
+  list: wangwu
+  map:
+    1: 66
+    2: 77
+    3: 88
+  set:
+    - lisi
+    - zhangsan
+  pet:
+    petname: zhangli
+    ID: 1997
+  name: 张三
+spring:
+  cache:
+    cache-names:
