@@ -14,6 +14,7 @@ static int a;
         while (n != 0) {
             sum++;
             n &= n - 1;
+            System.out.println("小修改");
         }
         return sum;
 
