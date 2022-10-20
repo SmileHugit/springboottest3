@@ -15,6 +15,7 @@ static int a;
             sum++;
             n &= n - 1;
             System.out.println("小修改");
+            System.out.println("我的修改");
         }
         return sum;
 
